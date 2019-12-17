@@ -1,5 +1,5 @@
 ## Tandem Interview Challenge
-## SEApprentice_Challenge_2019
+### SEApprentice_Challenge_2019
 
 ### Application genrates watering schedule for next 12 weeks for all the plants available.
 
@@ -14,7 +14,7 @@
 ### Below are the steps to run the files on eclipse:
 1. Go to the 'WateringSchedule.java', change the filePath for JSON File at line no 17 and Run as 'Java Applicaation'
 2. Input the day number of your choice between 1 to 84(12 weeks), you will get the plants to water for that day
-3. ***Enter 'exit' to come out of execution***
+3. **Enter 'exit' to come out of execution**
 
     
 
