@@ -1,5 +1,5 @@
 ## Tandem Interview Challenge
-### SEApprentice_Challenge_2019: Application genrates watering schedule for next 12 weeks for all the plants available.
+### SEApprentice_Challenge_2019: Application generates watering schedule for next 12 weeks for all the plants available.
 
 ### Below are the steps to setup to run the files on Eclipse Console (Windows System):
 1. Download and install latest version of JDK(https://www.oracle.com/technetwork/java/javase/downloads/index.html)
